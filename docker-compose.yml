@@ -1,0 +1,5 @@
+version: '3'
+services:
+  clock:
+    image: clock:1.0.0
+    build: .
